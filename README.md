@@ -1,11 +1,15 @@
 # One image of 17 November 2026
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/arisasmara/ai-news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/arisasmara/ai-news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 Entry for the make.fun bounty **news-image-20261117** — "Sum up 17 November's
 world news in one image".
 
 ## The image
 
-`entry.png` is a single 1024 x 1024 editorial poster (JPEG bytes, 279,559
+`entry.png` is a single 1024 x 1024 editorial poster (JPEG bytes, 540,267
 bytes — inside the 1 MiB and 1024 x 1024 gate). Deep navy background, warm
 amber accents, white bold labels. A banner across the top names the day in
 large letters: **17 NOVEMBER 2026**. Below it, one wide hero panel and a
